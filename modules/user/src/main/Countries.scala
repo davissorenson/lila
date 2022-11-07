@@ -28,7 +28,7 @@ object Countries {
     C("AT", "Austria"),
     C("AU", "Australia"),
     C("AW", "Aruba"),
-    C("AX", "Åland Islands"),
+    C("AX", "Åland"),
     C("AZ", "Azerbaijan"),
     C("BA", "Bosnia-Herzegovina"),
     C("BB", "Barbados"),
